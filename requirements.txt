@@ -1,0 +1,9 @@
+python-telegram-bot==13.15
+requests
+wikipedia-api
+qrcode[pil]
+googletrans==4.0.0-rc1
+yt-dlp
+gTTS
+phonenumbers
+python-whois
